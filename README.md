@@ -19,9 +19,8 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
-OS
 ```bash
-farfetch
+$ farfetch
                    '                      haturatu@alleycat
                   'o'                     ------------------
                  'ooo'                    OS: Linux 6.12.1-artix1-1 x86_64
